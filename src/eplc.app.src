@@ -1,0 +1,12 @@
+{application, eplc,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { eplc_app, []}},
+  {env, []}
+ ]}.

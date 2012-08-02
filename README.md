@@ -1,4 +1,3 @@
-eplc
+eplc - Erlang Process-Local Cache
 ====
 
-Erlang Process-Local Cache
